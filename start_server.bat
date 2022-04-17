@@ -1,2 +1,2 @@
-cd /D D:\GeekBrains\Progects\cource_2\Math
-C:\venv\env\Scripts\jupyter notebook
+cd C:\Users\ClickerMaster\Desktop\Diman\Math
+C:\project\env\Scripts\jupyter notebook
